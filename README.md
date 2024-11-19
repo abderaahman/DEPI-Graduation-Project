@@ -1,5 +1,5 @@
 
-# SOC Home Lab
+# SOC Home Lab : Real-World Attack Simulation on AWS 
 
 **Author**: Abdelrahman Magdy Gouda  
 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/abdelrahman-magdyy/)
